@@ -1,7 +1,8 @@
 # LeetCode Solutions
 
+### Welcome to my **LeetCode** repository!  
+This repository contains my solutions and explanations for various LeetCode problems. I aim to document my learning process, strategies, and thought process for solving problems in a structured and efficient way.
 
-Welcome to my **LeetCode** repository! This repository contains my solutions and explanations for various LeetCode problems. I aim to document my learning process, strategies, and thought process for solving problems in a structured and efficient way.
 ---
 
 ## 📁 Directory Structure
