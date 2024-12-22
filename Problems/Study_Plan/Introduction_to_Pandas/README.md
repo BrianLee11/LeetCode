@@ -8,7 +8,7 @@ This folder is part of the **LeetCode Study Plan** and focuses on solving proble
 
 ![Introduction to Pandas](images/intro_to_Pandas.png)
 
-The image above provides a quick reference or conceptual overview of **Pandas**, a powerful Python library for data manipulation and analysis.
+ **Pandas** is a powerful Python library for data manipulation and analysis.
 
 ---
 
