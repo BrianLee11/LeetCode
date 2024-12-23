@@ -1,5 +1,7 @@
 # LeetCode - Introduction to Pandas
 
+https://leetcode.com/studyplan/introduction-to-pandas/
+
 This folder is part of the **LeetCode Study Plan** and focuses on solving problems using Python's **Pandas** library. The goal is to enhance proficiency in data manipulation and analysis while integrating coding exercises into the learning process.
 
 ---

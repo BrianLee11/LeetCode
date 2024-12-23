@@ -7,8 +7,17 @@ This repository contains my solutions and explanations for various LeetCode prob
 
 ## 📁 Directory Structure
 
-- **Problems/Study_Plan/LeetCode_75/**  
+Problems/Study_Plan/
+
+- **LeetCode_75**  
   Contains solutions to problems from the **LeetCode 75 Study Plan**, a curated set of problems designed to build a strong foundation.
+  https://leetcode.com/studyplan/leetcode-75/
+
+- **Introduction to Pandas**
+  Focuses on solving problems using Python's **Pandas** library. The goal is to enhance proficiency in data manipulation and analysis while integrating coding exercises into the learning process.
+  https://leetcode.com/studyplan/introduction-to-pandas/
+
+
 ---
 ## 📬 Contact
 
