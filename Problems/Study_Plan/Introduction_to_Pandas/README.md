@@ -26,18 +26,18 @@ Contains resources and solutions for learning and applying **Pandas** to solve L
 
 ## Topics Covered
 
-### Pandas Data Structures
+### 1. Pandas Data Structures
 - [x] **Create a DataFrame from List** (Easy)
 
-### Data Inspection
+### 2. Data Inspection
 - [x] **Get the Size of a DataFrame** (Easy)
 - [x] **Display the First Three Rows** (Easy)
 
-### Data Selecting
+### 3. Data Selecting
 - [x] **Select Data** (Easy)
 - [x] **Create a New Column** (Easy)
 
-### Data Cleaning
+### 4. Data Cleaning
 - [x] **Drop Duplicate Rows** (Easy)
 - [x] **Drop Missing Data** (Easy)
 - [x] **Modify Columns** (Easy)
@@ -45,12 +45,12 @@ Contains resources and solutions for learning and applying **Pandas** to solve L
 - [x] **Change Data Type** (Easy)
 - [x] **Fill Missing Data** (Easy)
 
-### Table Reshaping
+### 5. Table Reshaping
 - [x] **Reshape Data: Concatenate** (Easy)
 - [x] **Reshape Data: Pivot** (Easy)
 - [x] **Reshape Data: Melt** (Easy)
 
-### Advanced Techniques
+### 6. Advanced Techniques
 - [x] **Method Chaining** (Easy)
 
 ---
