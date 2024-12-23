@@ -27,30 +27,30 @@ Contains resources and solutions for learning and applying **Pandas** to solve L
 ## Topics Covered
 
 ### Pandas Data Structures
-- [x] **Create a DataFrame from List** — [Solution] (Easy)
+- [x] **Create a DataFrame from List** (Easy)
 
 ### Data Inspection
-- [x] **Get the Size of a DataFrame** — [Solution] (Easy)
-- [x] **Display the First Three Rows** — [Solution] (Easy)
+- [x] **Get the Size of a DataFrame** (Easy)
+- [x] **Display the First Three Rows** (Easy)
 
 ### Data Selecting
-- [x] **Select Data** — [Solution] (Easy)
-- [x] **Create a New Column** — [Solution] (Easy)
+- [x] **Select Data** (Easy)
+- [x] **Create a New Column** (Easy)
 
 ### Data Cleaning
-- [x] **Drop Duplicate Rows** — [Solution] (Easy)
-- [x] **Drop Missing Data** — [Solution] (Easy)
-- [x] **Modify Columns** — [Solution] (Easy)
-- [x] **Rename Columns** — [Solution] (Easy)
-- [x] **Change Data Type** — [Solution] (Easy)
-- [x] **Fill Missing Data** — [Solution] (Easy)
+- [x] **Drop Duplicate Rows** (Easy)
+- [x] **Drop Missing Data** (Easy)
+- [x] **Modify Columns** (Easy)
+- [x] **Rename Columns** (Easy)
+- [x] **Change Data Type** (Easy)
+- [x] **Fill Missing Data** (Easy)
 
 ### Table Reshaping
-- [x] **Reshape Data: Concatenate** — [Solution] (Easy)
-- [x] **Reshape Data: Pivot** — [Solution] (Easy)
-- [x] **Reshape Data: Melt** — [Solution] (Easy)
+- [x] **Reshape Data: Concatenate** (Easy)
+- [x] **Reshape Data: Pivot** (Easy)
+- [x] **Reshape Data: Melt** (Easy)
 
 ### Advanced Techniques
-- [x] **Method Chaining** — [Solution] (Easy)
+- [x] **Method Chaining** (Easy)
 
 ---
